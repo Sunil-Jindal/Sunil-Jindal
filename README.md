@@ -23,7 +23,7 @@
 
 <h4>Examples of work</h4>
 
-<div style="display:flex; align-items:center; justify-content:flex-start">
+<div style="display:flex; align-items:flex-start; justify-content:space-between">
 <img src="https://github.com/Sunil-Jindal/Sunil-Jindal/blob/main/Home.png" width="300"/>
 <img src="https://github.com/Sunil-Jindal/Sunil-Jindal/blob/main/About.png" width="300"/>
 <img src="https://github.com/Sunil-Jindal/Sunil-Jindal/blob/main/Contacts.png" width="300"/>
