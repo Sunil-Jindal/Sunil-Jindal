@@ -1,3 +1,5 @@
+![I design and develop experiences that make people's lives simple.](https://github.com/Sunil-Jindal/Sunil-Jindal/blob/main/Frame%201.png)
+
 <h1 align="center">Hi 👋, I'm Sunil Jindal</h1>
 <h3 align="center">I design and develop experiences that make people's lives simple.</h3>
 
