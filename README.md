@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://sunilprotfolio.netlify.app](https://sunilprotfolio.netlify.app)
+<!-- - 👨‍💻 All of my projects are available at [https://sunilprotfolio.netlify.app](https://sunilprotfolio.netlify.app) -->
 
 - 💬 Ask me about **Web design and development**
 
