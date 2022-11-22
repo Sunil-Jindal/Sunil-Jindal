@@ -23,9 +23,15 @@
 
 <h4>Examples of work</h4>
 
-<!-- <div style="display:flex; align-items:flex-start; justify-content:space-between"> -->
-<img style="float:left" src="https://github.com/Sunil-Jindal/Sunil-Jindal/blob/main/Home.png" width="300"/>
-<img style="float:left" src="https://github.com/Sunil-Jindal/Sunil-Jindal/blob/main/About.png" width="300"/>
-<img style="float:left" src="https://github.com/Sunil-Jindal/Sunil-Jindal/blob/main/Contacts.png" width="300"/>
-<!-- </div> -->
+<div style="display:flex; align-items:flex-start; justify-content:space-between">
+<img  src="https://github.com/Sunil-Jindal/Sunil-Jindal/blob/main/Home.png" width="300"/>
+<img  src="https://github.com/Sunil-Jindal/Sunil-Jindal/blob/main/About.png" width="300"/>
+<img  src="https://github.com/Sunil-Jindal/Sunil-Jindal/blob/main/Contacts.png" width="300"/>
+</div>
+
+<div style="display:flex; align-items:flex-start; justify-content:space-between">
+<img  src="https://github.com/Sunil-Jindal/Sunil-Jindal/blob/main/Dashboard%20main%20(1).png" width="300"/>
+<img  src="https://github.com/Sunil-Jindal/Sunil-Jindal/blob/main/Appointment%20History.png" width="300"/>
+<img  src="https://github.com/Sunil-Jindal/Sunil-Jindal/blob/main/Inside%20Solution%20Center%20(1).png" width="300"/>
+</div>
 
