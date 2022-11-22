@@ -17,6 +17,8 @@ Hi, I am Sunil Jindal from India, and I do web design and development. I really 
 
 ## Examples of work
 <img src="https://github.com/Sunil-Jindal/Sunil-Jindal/blob/main/Home.png" width="300"/>
+<img src="https://github.com/Sunil-Jindal/Sunil-Jindal/blob/main/About.png" width="300"/>
+<img src="https://github.com/Sunil-Jindal/Sunil-Jindal/blob/main/Contacts.png" width="300"/>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Sunil-Jindal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/feed/?trk=nav_back_to_linkedin/)  
