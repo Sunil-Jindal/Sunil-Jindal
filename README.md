@@ -1,4 +1,4 @@
-
+![I design and develop experiences that make people's lives simple.](https://github.com/Sunil-Jindal/Sunil-Jindal/blob/main/Frame%201.png)
 
 # Sunil Jinda
 I design and develop experiences that make people's lives simple.
